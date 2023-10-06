@@ -36,3 +36,7 @@ public class PrinterApp {
         // Repeat Step 10-12 for addition.
 		int addition = number1 + number2;
 		System.out.println(number1 + "+" + number2 + "=" + addition);
+
+        // Repeat Step 10-12 for division.
+		int division = number1 / number2;
+		System.out.println(number1 + "/" + number2 + "=" + division);
