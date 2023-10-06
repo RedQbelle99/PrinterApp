@@ -40,3 +40,11 @@ public class PrinterApp {
         // Repeat Step 10-12 for division.
 		int division = number1 / number2;
 		System.out.println(number1 + "/" + number2 + "=" + division);
+
+        // Repeat Step 10-12 for substraction. 
+		int substraction = number1 - number2;
+		System.out.println(number1 + "-" + number2 + "=" + substraction);
+				
+	}
+
+}
