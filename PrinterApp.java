@@ -13,7 +13,7 @@ public class PrinterApp {
 		
 		// Step 5 : Print the value of the creator to the console.
 		System.out.println("This app is made by : " + creator);
-        
+
         // Step 6 : Declare tow numeric variables.
 		int number1 = 9;
 		int number2 = 3;
@@ -32,3 +32,7 @@ public class PrinterApp {
 		
 		// Step 12 
 		System.out.println(number1 + "*" + number2 + "=" + multiplication);
+
+        // Repeat Step 10-12 for addition.
+		int addition = number1 + number2;
+		System.out.println(number1 + "+" + number2 + "=" + addition);
